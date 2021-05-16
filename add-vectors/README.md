@@ -1,1 +1,1 @@
-Information about platform, devices' availbility.
+Vector addition + information about platform, devices' availbility.
